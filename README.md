@@ -33,14 +33,20 @@
 
 <br/>
 
-<!-- ═══════════════ TARJETA PRINCIPAL (TEXTO + PLANETA) ═══════════════ -->
-<table width="100%">
-  <tr>
-    <td width="70%" valign="top">
+<!-- ═══════════════ SEPARADOR SUPERIOR ═══════════════ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0d1117,58a6ff,8957e5,0d1117" alt="divider" width="100%" />
+</div>
+
+<br/>
+
+<!-- ═══════════════ TARJETA PRINCIPAL (TEXTO + ILUSTRACIÓN) ═══════════════ -->
+<img align="right" src="planet.jpg" alt="Renzo Avatar" width="190" />
 
 ### `>_` Hey there! I'm Renzo 👋
 
-**Full-Stack Software Engineer** · `Ingeniería de Software, 2026`
+**Full-Stack Software Engineer** · `Ingeniería de Software, 2026` · `Lima, PE 🇵🇪`  
+<sub><code>status: shipping_code 🚀</code></sub>
 
 <br/>
 
@@ -66,21 +72,7 @@ Soy de **Perú** y me apasiona crear aplicaciones minimalistas y de alto rendimi
 
 <kbd>JavaScript</kbd> <kbd>React</kbd> <kbd>PostgreSQL</kbd> <kbd>Docker</kbd> <kbd>Git & GitHub</kbd> <kbd>Minimal UI</kbd>
 
-<br/><br/>
-
-> ⚡ **Fun fact:** Puedo pasar horas ajustando un margen de 2px, pero me toma minutos montar un backend completo.
-
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="planet.jpg" alt="Planet" width="180" height="180" style="border-radius: 50%; border: 2px solid #30363d; display: block;" />
-      <br/>
-      <sub><code>status: shipping_code 🚀</code></sub>
-      <br/>
-      <sub><kbd>Lima, PE 🇵🇪</kbd></sub>
-    </td>
-  </tr>
-</table>
-
+<br clear="both"/>
 <br/>
 
 <!-- ═══════════════ SEPARADOR ═══════════════ -->
