@@ -45,8 +45,6 @@
  <!-- <img src="planet.jpg" alt="Renzo Avatar" width="200" />-->
 <!--</div>-->
 
-<br/>
-
 ### `>_` Hey there! I'm Renzo 👋
 
 **Software Engineer** · `Software Engineering, 2026` · `Lima, PE 🇵🇪`  
