@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=0d1117&color=161b22" alt="Portafolio" />
   </a>
   <a href="https://www.linkedin.com/in/renzo-retuerto-70076b350/" target="_blank">
-  <img src="https://img.shields.io/badge/-LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0a66c2" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&v=2" alt="LinkedIn" />
 </a>
   <a href="mailto:renzo.dev@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0d1117&color=161b22" alt="Correo" />
