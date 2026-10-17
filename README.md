@@ -40,8 +40,12 @@
 
 <br/>
 
-<!-- ═══════════════ MAIN CARD (TEXT + ILLUSTRATION) ═══════════════ -->
-<img align="right" src="planet.jpg" alt="Renzo Avatar" width="190" />
+<!-- ═══════════════ MAIN CARD ═══════════════ -->
+<div align="center">
+  <img src="planet.jpg" alt="Renzo Avatar" width="200" />
+</div>
+
+<br/>
 
 ### `>_` Hey there! I'm Renzo 👋
 
@@ -65,9 +69,7 @@ Quiet interfaces, fast code, zero noise. Building from **Peru**. 🌌
 
 <kbd>JavaScript</kbd> <kbd>React</kbd> <kbd>PostgreSQL</kbd> <kbd>Docker</kbd> <kbd>Git & GitHub</kbd> <kbd>Minimal UI</kbd>
 
-<br clear="both"/>
 <br/>
-
 <!-- ═══════════════ DIVIDER ═══════════════ -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=0d1117,58a6ff,8957e5,0d1117" alt="divider" width="100%" />
