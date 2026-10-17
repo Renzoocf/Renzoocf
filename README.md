@@ -41,9 +41,7 @@
 <br/>
 
 <!-- ═══════════════ MAIN CARD (TEXT + ILLUSTRATION) ═══════════════ -->
-<table>
-<tr>
-<td width="68%" valign="middle">
+<img align="right" src="planet.jpg" alt="Renzo Avatar" width="190" />
 
 ### `>_` Hey there! I'm Renzo 👋
 
@@ -67,15 +65,7 @@ Quiet interfaces, fast code, zero noise. Building from **Peru**. 🌌
 
 <kbd>JavaScript</kbd> <kbd>React</kbd> <kbd>PostgreSQL</kbd> <kbd>Docker</kbd> <kbd>Git & GitHub</kbd> <kbd>Minimal UI</kbd>
 
-</td>
-<td width="32%" align="center" valign="middle">
-
-<img src="planet.jpg" alt="Renzo Avatar" width="220" />
-
-</td>
-</tr>
-</table>
-
+<br clear="both"/>
 <br/>
 
 <!-- ═══════════════ DIVIDER ═══════════════ -->
