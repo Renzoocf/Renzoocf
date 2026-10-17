@@ -14,7 +14,7 @@
 
 <!-- ═══════════════ BOTONES TIPO CÁPSULA ═══════════════ -->
 <div align="center">
-  <a href="https://renzooucf.github.io/RenzoOs/">
+  <a href="https://renzoocf.github.io/">
     <img src="https://img.shields.io/badge/PORTFOLIO-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=0d1117&color=161b22" alt="Portafolio" />
   </a>
   <a href="https://www.linkedin.com/in/renzo-dev">
@@ -26,7 +26,7 @@
   <a href="https://renzooucf.github.io/RenzoOs/cv.pdf">
     <img src="https://img.shields.io/badge/RESUME-0d1117?style=for-the-badge&logo=readme&logoColor=8957e5&labelColor=0d1117&color=161b22" alt="CV" />
   </a>
-  <a href="https://github.com/renzooucf">
+  <a href="https://github.com/Renzoocf">
     <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0d1117&color=161b22" alt="GitHub" />
   </a>
 </div>
