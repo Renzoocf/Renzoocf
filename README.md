@@ -217,30 +217,4 @@ developer:
 
 <br/>
 
-<!-- ═══════════════ ESTADÍSTICAS & TELEMETRÍA ═══════════════ -->
-### `>_` GitHub metrics & telemetry
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=renzooucf&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" alt="Stats" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzooucf&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=renzooucf&theme=transparent&background=0d1117&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&hide_border=false" alt="Streak" />
-</div>
-
-<br/>
-
-<!-- ═══════════════ ACTIVIDAD ═══════════════ -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=renzooucf&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Activity graph" width="100%" />
-</div>
-
-<br/>
 
