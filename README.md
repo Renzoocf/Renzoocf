@@ -41,9 +41,9 @@
 <br/>
 
 <!-- ═══════════════ MAIN CARD ═══════════════ -->
-<div align="center">
+<!--<div align="center">-->
  <!-- <img src="planet.jpg" alt="Renzo Avatar" width="200" />-->
-</div>
+<!--</div>-->
 
 <br/>
 
