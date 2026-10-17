@@ -61,13 +61,6 @@ Soy de **Perú** y me apasiona crear aplicaciones minimalistas y de alto rendimi
 
 <br/>
 
-**🌱 Currently learning**
-- **Next.js 15** — para llevar mis proyectos a producción con SSR y mejor SEO.
-- **Docker & CI/CD** — para automatizar despliegues y dejar de subir cosas a mano.
-- **Cloud (AWS)** — me interesa entender cómo escalan las aplicaciones reales.
-
-<br/>
-
 **💬 Ask me about**
 
 <kbd>JavaScript</kbd> <kbd>React</kbd> <kbd>PostgreSQL</kbd> <kbd>Docker</kbd> <kbd>Git & GitHub</kbd> <kbd>Minimal UI</kbd>
