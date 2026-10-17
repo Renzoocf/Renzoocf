@@ -42,7 +42,7 @@
 
 <!-- ═══════════════ MAIN CARD ═══════════════ -->
 <div align="center">
-  <img src="planet.jpg" alt="Renzo Avatar" width="200" />
+ <!-- <img src="planet.jpg" alt="Renzo Avatar" width="200" />-->
 </div>
 
 <br/>
